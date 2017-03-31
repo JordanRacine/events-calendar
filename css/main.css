@@ -1,4 +1,4 @@
-html{
+html {
   font-family: Merriweather, serif;
 }
 
@@ -6,6 +6,7 @@ th {
   border-bottom: 1px solid #ccc;
   border-right: 1px solid #ccc;
 }
+
 td {
   border-bottom: 1px solid #ccc;
   border-right: 1px solid #ccc;
